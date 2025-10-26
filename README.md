@@ -1,14 +1,14 @@
 # Health Insurance Premium Prediction
 ## Project Overview
 
-This project predicts health insurance premiums based on personal and health-related factors like age, BMI, smoking status, income, medical history, etc.
-To ensure accuracy and fairness, two separate models were developed:
+- This project predicts health insurance premiums based on personal and health-related factors like age, BMI, smoking status, income, medical history, etc.
+- To ensure accuracy and fairness, two separate models were developed:
 
 Model	      Segment	      Algorithm	      R² Score
 Model A	   Age > 25	   XGBoost Regressor	 0.997
 Model B	   Age ≤ 25	   Linear Regression	 0.988
 
-The system is deployed as a Streamlit web application so insurance underwriters can calculate premium from anywhere.
+- The system is deployed as a Streamlit web application so insurance underwriters can calculate premium from anywhere.
 
 ## Objective
 
