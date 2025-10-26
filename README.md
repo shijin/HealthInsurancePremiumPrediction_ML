@@ -126,5 +126,5 @@ To maintain trust and transparency:
 ## Author
 
 Shijin Ramesh  
-Data Scientist | Machine Learning Practitioner
+Data Scientist | Machine Learning Practitioner  
 [Email](kshijin92@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shijinramesh/) | [Portfolio](https://www.shijinramesh.co.in/)
