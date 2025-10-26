@@ -104,6 +104,7 @@ To maintain trust and transparency:
 
 - pip install -r requirements.txt
 - streamlit run app/main.py
+- [Deployed Link](https://healthinsurance-premiumprediction.streamlit.app/)
 
 ## Business Impact
 
