@@ -4,9 +4,11 @@
 - This project predicts health insurance premiums based on personal and health-related factors like age, BMI, smoking status, income, medical history, etc.
 - To ensure accuracy and fairness, two separate models were developed:
 
-Model	      Segment	      Algorithm	      R² Score
-Model A	   Age > 25	   XGBoost Regressor	 0.997
-Model B	   Age ≤ 25	   Linear Regression	 0.988
+| Model | Age Segment | Algorithm Used | R² Score |
+|-------|-------------|----------------|---------:|
+| **Model A** | > 25 years | XGBoost Regressor | **0.997** |
+| **Model B** | ≤ 25 years | Linear Regression | **0.988** |
+
 
 - The system is deployed as a Streamlit web application so insurance underwriters can calculate premium from anywhere.
 
